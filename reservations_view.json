@@ -1,34 +1,35 @@
 {
-    "all_upcoming_reservations_count": 21068,
-    "cancelled_reservations_count": 3912,
+    "updated_at": "2025-09-25T09:19:37.244609Z",
+    "all_upcoming_reservations_count": 21089,
+    "cancelled_reservations_count": 3932,
     "active_reservations": {
-        "count": 14924,
-        "non_refundable_reservations_count": 2232,
+        "count": 17157,
+        "non_refundable_reservations_count": 2201,
         "refundable_reservations": {
-            "count": 14924,
+            "count": 14956,
             "cash_reservations": {
-                "count": 8375,
+                "count": 8401,
                 "reservation_scraper": {
-                    "count": 3373,
+                    "count": 3384,
                     "exact_match": {
-                        "count": 1447,
+                        "count": 1452,
                         "rate_match_type": "EXACT",
                         "cheaper_match": {
-                            "count": 585,
+                            "count": 595,
                             "auto_save_enabled": {
-                                "count": 51
+                                "count": 59
                             },
                             "room_rate_monitor": {
-                                "count": 534
+                                "count": 536
                             }
                         },
-                        "same_price_or_more_expensive": 862
+                        "same_price_or_more_expensive": 857
                     },
                     "lowest_match": {
-                        "count": 1296,
+                        "count": 1312,
                         "rate_match_type": "LOWEST",
                         "cheaper_match": {
-                            "count": 1057,
+                            "count": 1076,
                             "auto_save_enabled": {
                                 "count": 0
                             },
@@ -36,19 +37,19 @@
                                 "count": 0
                             }
                         },
-                        "same_price_or_more_expensive": 239
+                        "same_price_or_more_expensive": 236
                     },
-                    "unavailable": 87
+                    "unavailable": 89
                 },
                 "direct": {
-                    "count": 5002,
+                    "count": 5017,
                     "exact_match": {
-                        "count": 0,
+                        "count": 1,
                         "rate_match_type": "EXACT",
                         "cheaper_match": {
-                            "count": 0,
+                            "count": 1,
                             "auto_save_enabled": {
-                                "count": 0
+                                "count": 1
                             },
                             "room_rate_monitor": {
                                 "count": 0
@@ -70,11 +71,11 @@
                         },
                         "same_price_or_more_expensive": 0
                     },
-                    "unavailable": 1
+                    "unavailable": 0
                 }
             },
             "points_reservations": {
-                "count": 1127,
+                "count": 1137,
                 "reservation_scraper": {
                     "count": 0,
                     "exact_match": {
@@ -108,7 +109,7 @@
                     "unavailable": 0
                 },
                 "direct": {
-                    "count": 1127,
+                    "count": 1137,
                     "exact_match": {
                         "count": 0,
                         "rate_match_type": "EXACT",
