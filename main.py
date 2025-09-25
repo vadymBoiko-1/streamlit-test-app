@@ -1,17 +1,9 @@
-import json
-
+import data_manager
 import streamlit as st
-
-_path = 'reservations_view.json'
-
-def load_data() -> dict:
-    # todo get from REDIS
-    with open(_path) as f:
-        return json.load(f)
 
 def main() -> None:
     st.title("Reservations View")
-    data = load_data()
+    data = data_manager.pull_data()
     st.json(data)   # renders as collapsible tree
     return None
 
