@@ -1,0 +1,145 @@
+{
+    "all_upcoming_reservations_count": 21068,
+    "cancelled_reservations_count": 3912,
+    "active_reservations": {
+        "count": 14924,
+        "non_refundable_reservations_count": 2232,
+        "refundable_reservations": {
+            "count": 14924,
+            "cash_reservations": {
+                "count": 8375,
+                "reservation_scraper": {
+                    "count": 3373,
+                    "exact_match": {
+                        "count": 1447,
+                        "rate_match_type": "EXACT",
+                        "cheaper_match": {
+                            "count": 585,
+                            "auto_save_enabled": {
+                                "count": 51
+                            },
+                            "room_rate_monitor": {
+                                "count": 534
+                            }
+                        },
+                        "same_price_or_more_expensive": 862
+                    },
+                    "lowest_match": {
+                        "count": 1296,
+                        "rate_match_type": "LOWEST",
+                        "cheaper_match": {
+                            "count": 1057,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 239
+                    },
+                    "unavailable": 87
+                },
+                "direct": {
+                    "count": 5002,
+                    "exact_match": {
+                        "count": 0,
+                        "rate_match_type": "EXACT",
+                        "cheaper_match": {
+                            "count": 0,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 0
+                    },
+                    "lowest_match": {
+                        "count": 0,
+                        "rate_match_type": "LOWEST",
+                        "cheaper_match": {
+                            "count": 0,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 0
+                    },
+                    "unavailable": 1
+                }
+            },
+            "points_reservations": {
+                "count": 1127,
+                "reservation_scraper": {
+                    "count": 0,
+                    "exact_match": {
+                        "count": 0,
+                        "rate_match_type": "EXACT",
+                        "cheaper_match": {
+                            "count": 0,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 0
+                    },
+                    "lowest_match": {
+                        "count": 0,
+                        "rate_match_type": "LOWEST",
+                        "cheaper_match": {
+                            "count": 0,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 0
+                    },
+                    "unavailable": 0
+                },
+                "direct": {
+                    "count": 1127,
+                    "exact_match": {
+                        "count": 0,
+                        "rate_match_type": "EXACT",
+                        "cheaper_match": {
+                            "count": 0,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 0
+                    },
+                    "lowest_match": {
+                        "count": 0,
+                        "rate_match_type": "LOWEST",
+                        "cheaper_match": {
+                            "count": 0,
+                            "auto_save_enabled": {
+                                "count": 0
+                            },
+                            "room_rate_monitor": {
+                                "count": 0
+                            }
+                        },
+                        "same_price_or_more_expensive": 0
+                    },
+                    "unavailable": 0
+                }
+            }
+        }
+    }
+}
